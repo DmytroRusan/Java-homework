@@ -19,5 +19,7 @@ public class Task22 {
         }
         System.out.println(maxNum);
         System.out.println(lastElement);
+        
+        
     }
 }
