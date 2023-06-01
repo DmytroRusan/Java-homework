@@ -1,5 +1,6 @@
 package Task28;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task28 {
